@@ -1,0 +1,30 @@
+race_planner_node:
+  ros__parameters:
+    enable_ml_tuner: true
+    enable_global_waypoints: false
+    ml_model_path: "/tmp/race_ws/src/race_planner/models/spielberg_ml_model.json"
+
+    max_speed: 8.5
+    straight_speed: 8.05
+    fast_curve_speed: 6.85
+    medium_speed: 5.20
+    corner_speed: 3.00
+
+    lat_accel_limit: 10.2
+    accel_limit: 6.4
+    decel_limit: 10.3
+    brake_decel: 8.9
+
+    ml_speed_scale_max: 1.30
+    ml_speed_scale_min: 0.88
+    ml_risk_slowdown: 0.11
+
+    preferred_wall_clearance: 0.66
+    safety_margin: 0.14
+    progress_weight: 2.35
+    clearance_weight: 2.80
+    center_weight: 1.58
+
+    min_horizon: 2.50
+    max_horizon: 6.00
+    lookahead_speed_gain: 0.31

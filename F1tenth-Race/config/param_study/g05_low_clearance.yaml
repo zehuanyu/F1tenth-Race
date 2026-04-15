@@ -1,0 +1,26 @@
+race_planner_node:
+  ros__parameters:
+    enable_ml_tuner: true
+    enable_global_waypoints: false
+    max_speed: 7.8
+    straight_speed: 7.35
+    fast_curve_speed: 6.15
+    medium_speed: 4.75
+    corner_speed: 2.75
+    lat_accel_limit: 8.8
+    accel_limit: 5.2
+    decel_limit: 9.2
+    brake_decel: 7.8
+    ml_speed_scale_max: 1.22
+    ml_speed_scale_min: 0.84
+    ml_risk_slowdown: 0.16
+    preferred_wall_clearance: 0.64
+    safety_margin: 0.14
+    progress_weight: 2.5
+    clearance_weight: 2.4
+    center_weight: 1.55
+    min_horizon: 2.35
+    max_horizon: 5.8
+    lookahead_speed_gain: 0.29
+    steering_smoothing: 0.48
+    corner_steering_smoothing: 0.28
