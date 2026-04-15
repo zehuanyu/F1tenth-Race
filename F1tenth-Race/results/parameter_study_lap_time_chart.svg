@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect width="100%" height="100%" fill="white"/>
+<text x="700" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Lap Time Comparison for 10 Parameter Groups</text>
+<text x="700" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#444">Spielberg map, one clean-restart run per group; lower is better</text>
+<line x1="120" y1="730.0" x2="1340" y2="730.0" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="735.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">60</text>
+<line x1="120" y1="671.8" x2="1340" y2="671.8" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="676.8" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">61</text>
+<line x1="120" y1="613.6" x2="1340" y2="613.6" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="618.6" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">62</text>
+<line x1="120" y1="555.5" x2="1340" y2="555.5" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="560.5" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">63</text>
+<line x1="120" y1="497.3" x2="1340" y2="497.3" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="502.3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">64</text>
+<line x1="120" y1="439.1" x2="1340" y2="439.1" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="444.1" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">65</text>
+<line x1="120" y1="380.9" x2="1340" y2="380.9" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="385.9" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">66</text>
+<line x1="120" y1="322.7" x2="1340" y2="322.7" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="327.7" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">67</text>
+<line x1="120" y1="264.5" x2="1340" y2="264.5" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="269.5" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">68</text>
+<line x1="120" y1="206.4" x2="1340" y2="206.4" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="211.4" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">69</text>
+<line x1="120" y1="148.2" x2="1340" y2="148.2" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="153.2" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">70</text>
+<line x1="120" y1="90.0" x2="1340" y2="90.0" stroke="#d8d8d8" stroke-width="1"/>
+<text x="106" y="95.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#333">71</text>
+<line x1="120" y1="90" x2="120" y2="730" stroke="#222" stroke-width="2"/>
+<line x1="120" y1="730" x2="1340" y2="730" stroke="#222" stroke-width="2"/>
+<text x="38" y="410.0" transform="rotate(-90 38 410.0)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Lap Time (s)</text>
+<rect x="120.0" y="358.8" width="105.8" height="371.2" fill="#eab308" stroke="#a16207" stroke-width="2" rx="4"/>
+<text x="172.9" y="348.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">66.38</text>
+<text x="172.9" y="756.0" text-anchor="end" transform="rotate(-35 172.9 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g01_baseline_fast</text>
+<rect x="243.8" y="179.0" width="105.8" height="551.0" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="296.7" y="169.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">69.47</text>
+<text x="296.7" y="756.0" text-anchor="end" transform="rotate(-35 296.7 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g02_conservative_speed</text>
+<rect x="367.6" y="659.6" width="105.8" height="70.4" fill="#10b981" stroke="#047857" stroke-width="2" rx="4"/>
+<text x="420.5" y="649.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">61.21</text>
+<text x="420.5" y="756.0" text-anchor="end" transform="rotate(-35 420.5 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g03_aggressive_speed</text>
+<rect x="491.4" y="244.8" width="105.8" height="485.2" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="544.3" y="234.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">68.34</text>
+<text x="544.3" y="756.0" text-anchor="end" transform="rotate(-35 544.3 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g04_high_clearance</text>
+<rect x="615.2" y="347.7" width="105.8" height="382.3" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="668.1" y="337.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">66.57</text>
+<text x="668.1" y="756.0" text-anchor="end" transform="rotate(-35 668.1 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g05_low_clearance</text>
+<rect x="739.0" y="272.1" width="105.8" height="457.9" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="791.9" y="262.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">67.87</text>
+<text x="791.9" y="756.0" text-anchor="end" transform="rotate(-35 791.9 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g06_long_horizon</text>
+<rect x="862.8" y="419.9" width="105.8" height="310.1" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="915.7" y="409.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">65.33</text>
+<text x="915.7" y="756.0" text-anchor="end" transform="rotate(-35 915.7 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g07_short_horizon</text>
+<rect x="986.6" y="411.7" width="105.8" height="318.3" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="1039.5" y="401.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">65.47</text>
+<text x="1039.5" y="756.0" text-anchor="end" transform="rotate(-35 1039.5 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g08_smoother_steering</text>
+<rect x="1110.4" y="352.4" width="105.8" height="377.6" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="1163.3" y="342.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">66.49</text>
+<text x="1163.3" y="756.0" text-anchor="end" transform="rotate(-35 1163.3 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g09_sharper_steering</text>
+<rect x="1234.2" y="264.0" width="105.8" height="466.0" fill="#d1d5db" stroke="#6b7280" stroke-width="2" rx="4"/>
+<text x="1287.1" y="254.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111">68.01</text>
+<text x="1287.1" y="756.0" text-anchor="end" transform="rotate(-35 1287.1 756.0)" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#222">g10_ml_disabled</text>
+<rect x="1040" y="100" width="18" height="18" fill="#10b981" stroke="#555" stroke-width="1"/>
+<text x="1068" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#222">Best result</text>
+<rect x="1040" y="128" width="18" height="18" fill="#eab308" stroke="#555" stroke-width="1"/>
+<text x="1068" y="142" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#222">Baseline</text>
+<rect x="1040" y="156" width="18" height="18" fill="#d1d5db" stroke="#555" stroke-width="1"/>
+<text x="1068" y="170" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#222">Other groups</text>
+<text x="1332" y="350.8" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#8a6a00">Baseline = 66.38s</text>
+</svg>

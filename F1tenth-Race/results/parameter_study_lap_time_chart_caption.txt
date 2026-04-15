@@ -1,0 +1,1 @@
+Figure. One-lap performance comparison of 10 race_planner parameter groups on the Spielberg map. Lower lap time indicates better performance. The baseline group is highlighted in gold, and the best-performing group is highlighted in green.
